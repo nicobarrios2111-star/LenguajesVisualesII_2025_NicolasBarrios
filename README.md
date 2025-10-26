@@ -1,4 +1,3 @@
-# LenguajesVisualesII_2025_NicolasBarrios
 
 # Calendario con Gestor de Tareas
 
